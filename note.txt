@@ -1,0 +1,13 @@
+# setup.sh note
+
+Running this script is like unleashing a pitbull inside your system:  
+you don’t fear it... but once it’s loose, it devours every damn process without mercy.
+
+If your shady processes don’t leave on their own, we’ll kick them out hard...  
+and if the system freaks out, tough luck.
+
+This isn’t magic, it’s *ProcHunter++*: the silent exterminator.
+
+Run at your own risk, or keep your bugs and cry later.
+
+— X2X0
