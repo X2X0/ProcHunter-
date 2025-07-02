@@ -325,6 +325,15 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ProcHunter++ is designed for legitimate security research and system administration. Users are responsible for complying with all applicable laws and regulations. The tool should only be used on systems you own or have explicit permission to test.
 
+## ⚠️ Disclaimer (2)
+
+This tool was built in under an hour.  
+If it breaks your system, causes a blue screen, or makes your coffee machine self-destruct...
+
+**Skill issue.**  
+Don't open issues. Open your brain.
+
+
 ## 🙏 Acknowledgments
 
 - OpenSSL for cryptographic functions
