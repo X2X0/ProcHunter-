@@ -1,6 +1,6 @@
 # ProcHunter++ 🛠️
 
-**Advanced Process Scanner & Rootkit Detection Tool for Linux**
+**Process Scanner & Rootkit Detection Tool for Linux**
 
 Credits: [X2X0](https://github.com/X2X0)
 
