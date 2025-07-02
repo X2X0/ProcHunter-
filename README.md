@@ -152,14 +152,16 @@ PID     Name            Score   Anomalies                    Path
 ## 📁 File Structure
 
 ```
-prochunter++/
+prochunter-/
 ├── src/
-│   └── prochunter.cpp      # Main source code
-├── build/                  # Build artifacts
-├── bin/                    # Compiled binary
-├── whitelist.txt          # Trusted binary hashes
+│   └── prochunter.cpp     # Main source code
+├── build/                 # Build artifacts *
+├── bin/                   # Compiled binary *
+├── LICENSE                # MIT
+├── README.md              # This file
 ├── Makefile               # Build configuration
-└── README.md              # This file
+├── note.txt               # Funny Note
+└── setup.sh               # SetUp
 ```
 
 ## 🔧 Configuration Files
